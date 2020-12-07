@@ -1,0 +1,90 @@
+<user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+  <channel site="dummy" site_id="xx" update="6" xmltv_id="Example">Example</channel>
+  <channel site="lineup.net.br" xmltv_id="Rede Record MG HD" site_id="511526" update="i">Rede Record MG HD</channel>
+  <channel site="clarotv.com.br" xmltv_id="Rede TV" site_id="240" update="i">Rede TV</channel>
+  <channel site="lineup.net.br" xmltv_id="TV Alterosa" site_id="161418" update="i">SBT MG</channel>
+  <channel site="lineup.net.br" xmltv_id="Rede Minas" site_id="981958" update="i">Rede Minas</channel>
+  <channel site="lineup.net.br" xmltv_id="Globo Minas" site_id="267846" update="i">Globo Minas</channel>
+  <channel site="clarotv.com.br" xmltv_id="Cartoon Network" site_id="18" update="i">Cartoon Network</channel>
+  <channel site="clarotv.com.br" xmltv_id="Discovery Kids" site_id="30" update="i">Discovery Kids</channel>
+  <channel site="clarotv.com.br" xmltv_id="Boomerang" site_id="11" update="i">Boomerang</channel>
+  <channel site="clarotv.com.br" xmltv_id="TOONCAST" site_id="175" update="i">TOONCAST</channel>
+  <channel site="clarotv.com.br" xmltv_id="Nickelodeon" site_id="74" update="i">Nickelodeon</channel>
+  <channel site="clarotv.com.br" xmltv_id="Nick Jr." site_id="73" update="i">Nick Jr.</channel>
+  <channel site="clarotv.com.br" xmltv_id="TV Rá Tim Bum" site_id="109" update="i">TV Rá Tim Bum</channel>
+  <channel site="clarotv.com.br" xmltv_id="Disney" site_id="33" update="i">Disney</channel>
+  <channel site="clarotv.com.br" xmltv_id="Fox Sports" site_id="92" update="i">Fox Sports</channel>
+  <channel site="clarotv.com.br" xmltv_id="SporTV" site_id="93" update="i">SporTV</channel>
+  <channel site="clarotv.com.br" xmltv_id="ESPN" site_id="36" update="i">ESPN</channel>
+  <channel site="lineup.net.br" xmltv_id="Fish TV" site_id="350650" update="i">Fish TV</channel>
+  <channel site="clarotv.com.br" xmltv_id="ESPN Brasil" site_id="35" update="i">ESPN Brasil</channel>
+  <channel site="clarotv.com.br" xmltv_id="Band Sports" site_id="8" update="i">Band Sports</channel>
+  <channel site="clarotv.com.br" xmltv_id="Combate" site_id="23" update="i">Combate</channel>
+  <channel site="clarotv.com.br" xmltv_id="Discovery Channel" site_id="28" update="i">Discovery Channel</channel>
+  <channel site="clarotv.com.br" xmltv_id="ID - Investigação Discovery" site_id="61" update="i">ID - Investigação Discovery</channel>
+  <channel site="clarotv.com.br" xmltv_id="Discovery Home & Health" site_id="29" update="i">Discovery Home & Health</channel>
+  <channel site="clarotv.com.br" xmltv_id="Animal Planet" site_id="3" update="i">Animal Planet</channel>
+  <channel site="lineup.net.br" xmltv_id="National Geographic" site_id="297424" update="i">National Geographic</channel>
+  <channel site="clarotv.com.br" xmltv_id="Arte 1" site_id="211" update="i">Arte 1</channel>
+  <channel site="clarotv.com.br" xmltv_id="The History Channel" site_id="119" update="i">The History Channel</channel>
+  <channel site="clarotv.com.br" xmltv_id="Canal Viva" site_id="17" update="i">Canal Viva</channel>
+  <channel site="clarotv.com.br" xmltv_id="Multishow" site_id="68" update="i">Multishow</channel>
+  <channel site="clarotv.com.br" xmltv_id="GNT" site_id="48" update="i">GNT</channel>
+  <channel site="clarotv.com.br" xmltv_id="MTV " site_id="246" update="i">MTV </channel>
+  <channel site="lineup.net.br" xmltv_id="MTV Live HD" site_id="287580" update="i">MTV Live HD</channel>
+  <channel site="clarotv.com.br" xmltv_id="Comedy Central" site_id="188" update="i">Comedy Central</channel>
+  <channel site="clarotv.com.br" xmltv_id="Warner Channel" site_id="124" update="i">Warner Channel</channel>
+  <channel site="clarotv.com.br" xmltv_id="TNT" site_id="100" update="i">TNT</channel>
+  <channel site="lineup.net.br" xmltv_id="TNT Séries" site_id="428188" update="i">TNT Séries</channel>
+  <channel site="lineup.net.br" xmltv_id="Fox Channel" site_id="112124" update="i">Fox Channel</channel>
+  <channel site="clarotv.com.br" xmltv_id="HBO" site_id="56" update="i">HBO</channel>
+  <channel site="clarotv.com.br" xmltv_id="AXN" site_id="2" update="i">AXN</channel>
+  <channel site="clarotv.com.br" xmltv_id="Telecine Action" site_id="112" update="i">Telecine Action</channel>
+  <channel site="clarotv.com.br" xmltv_id="Telecine Pipoca" site_id="116" update="i">Telecine Pipoca</channel>
+  <channel site="clarotv.com.br" xmltv_id="Megapix" site_id="67" update="i">Megapix</channel>
+  <channel site="clarotv.com.br" xmltv_id="Paramount" site_id="123" update="i">Paramount</channel>
+  <channel site="lineup.net.br" xmltv_id="Travel Box Brazil" site_id="816536" update="i">Travel Box Brazil</channel>
+  <channel site="clarotv.com.br" xmltv_id="Prime Box Brazil" site_id="148" update="i">Prime Box Brazil</channel>
+  <channel site="lineup.net.br" xmltv_id="Music Box Brazil" site_id="752812" update="i">Music Box Brazil</channel>
+  <channel site="lineup.net.br" xmltv_id="GloboNews" site_id="883806" update="i">GloboNews</channel>
+  <channel site="lineup.net.br" xmltv_id="BandNews" site_id="936130" update="i">BandNews</channel>
+  
+  <channel site="clarotv.com.br" xmltv_id="Rede Vida" site_id="234" update="i">Rede Vida</channel>
+  <channel site="clarotv.com.br" xmltv_id="RIT" site_id="233" update="i">RIT</channel>
+  <channel site="lineup.net.br" xmltv_id="TV Aparecida" site_id="133772" update="i">TV Aparecida</channel>
+  <channel site="lineup.net.br" xmltv_id="Canção Nova" site_id="167601" update="i">Canção Nova</channel>
+  <channel site="lineup.net.br" xmltv_id="TV Senado" site_id="428764" update="i">TV Senado</channel>
+  <channel site="lineup.net.br" xmltv_id="TV Justiça" site_id="942651" update="i">TV Justiça</channel>
+  <channel site="clarotv.com.br" xmltv_id="TV Brasil" site_id="101" update="i">TV Brasil</channel>
+  <channel site="clarotv.com.br" xmltv_id="TV Câmara" site_id="104" update="i">TV Câmara</channel>
+  <channel site="clarotv.com.br" xmltv_id="NBR" site_id="69" update="i">NBR</channel>
+  <channel site="clarotv.com.br" xmltv_id="TV Escola" site_id="105" update="i">TV Escola</channel>
+  <channel site="lineup.net.br" xmltv_id="Ulbra TV" site_id="237508" update="i">Ulbra TV</channel>
+  <channel site="lineup.net.br" xmltv_id="Primer TV" site_id="983955" update="i">Primer TV</channel>
+  <channel site="lineup.net.br" xmltv_id="Canal do Boi" site_id="117143" update="i">Canal do Boi</channel>
+  <channel site="lineup.net.br" xmltv_id="Agro Canal" site_id="813113" update="i">Agro Canal</channel>
+  <channel site="lineup.net.br" xmltv_id="CNT" site_id="499901" update="i">CNT</channel>
+  <channel site="lineup.net.br" xmltv_id="FashionTV Brasil" site_id="651932" update="i">FashionTV Brasil</channel>
+  <channel site="lineup.net.br" xmltv_id="Terra Viva" site_id="118280" update="i">Terra Viva</channel>
+  <channel site="lineup.net.br" xmltv_id="RecordTV" site_id="760178" update="i">RecordTV</channel>
+  <channel site="lineup.net.br" xmltv_id="SBT" site_id="302660" update="i">SBT</channel>
+  <channel site="clarotv.com.br" xmltv_id="BAND" site_id="5" update="i">BAND</channel>
+  
+  
+ 
+</settings>
