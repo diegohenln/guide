@@ -1,0 +1,1843 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rede Record MG HD">
+    <display-name lang="en">Rede Record MG HD</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s104206_h3_aa.png" />
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="RedeTV! HD">
+    <display-name lang="en">RedeTV! HD</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s103750_h3_aa.png" />
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="SBT MG HD">
+    <display-name lang="en">SBT MG HD</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s98757_h3_aa.png" />
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Band Minas HD">
+    <display-name lang="en">Band Minas HD</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s103711_h3_aa.png" />
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Globo Minas HD">
+    <display-name lang="en">Globo Minas HD</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s76937_h3_ba.png" />
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="en">MTV</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s15416_h3_ba.png" />
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <programme start="20201216000000 +0000" stop="20201216004500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Amor sem Igual</title>
+    <desc lang="en">Mesmo de realidades totalmente diferentes, a garota de programa Angélica e o agrônomo Miguel se conhecem pelo acaso do destino e se apaixonam.(n)</desc>
+    <credits>
+      <actor>Day Mesquita</actor>
+      <actor>Rafael Sardão</actor>
+      <actor>Thiago Rodrigues</actor>
+      <actor>Juan Alba</actor>
+      <actor>Heitor Martinez</actor>
+      <actor>Gabriel Gracindo</actor>
+      <actor>Barbara França</actor>
+      <actor>Guilherme Dellorto</actor>
+      <actor>Manuela do Monte</actor>
+      <actor>Sthefany Brito</actor>
+      <writer>Cristianne Fridman</writer>
+      <writer>Carla Piske</writer>
+      <writer>Aline Garbati</writer>
+      <writer>Jussara Fazolo</writer>
+      <writer>Alexandre Teixeira</writer>
+      <writer>Alexandre Richard</writer>
+      <writer>Jaqueline Corrêa</writer>
+      <writer>Sanderson Costa</writer>
+      <writer>Camilo Pellegrini</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17696338_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E128</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216004500 +0000" stop="20201216014500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Jesus</title>
+    <desc lang="en">Dimas e Gestas são pregados na cruz; ferido e com a coroa de espinhos, Jesus começa a carregar sua cruz; ao ver o estado de seu filho carregando a cruz, Maria sente uma profunda angústia.(n)</desc>
+    <credits>
+      <actor role="Jesus">Dudu Azevedo</actor>
+      <actor role="Maria Madalena">Day Mesquita</actor>
+      <actor role="Judas Iscariotes">Guilherme Winter</actor>
+      <actor role="Lúcifer/Branca Flor">Mayana Moura</actor>
+      <actor role="Maria de Nazaré">Cláudia Mauro</actor>
+      <actor role="José de Nazaré">Michel Bercovitch</actor>
+      <actor role="Pôncio Pilatos">Nicola Siri</actor>
+      <actor role="Cláudia Prócula de Pilatos">Larissa Maciel</actor>
+      <actor role="Herodíade">Vanessa Gerbelli</actor>
+      <actor role="Herodes Antipas">Marcos Winter</actor>
+      <writer>Paula Richard</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Drama Histórico</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15396807_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E176</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216014500 +0000" stop="20201216031500 +0000" channel="Rede Record MG HD">
+    <title lang="en">A Fazenda</title>
+    <desc lang="en">Quando o caipira chega à cidade grande, sofre provações de todo tipo até se acostumar à vida urbana. Para piorar, vira motivo de piada com os inevitáveis tropeços. O reality show mostra um lado desconhecido dos participantes que serão testados em tarefas típicas do meio rural. Esses novos caipiras, que antes só faziam esforço físico na malhação da academia, terão que acordar com as galinhas, enfrentar o trabalho na roça e ainda provar que são inteligentes e fortes o bastante para aguentar as armadilhas de um confinamento. Eles têm que lidar com questões comuns ao meio artístico, como vaidade e opinião pública, além de temas bem pessoais, como amizade, amor, raiva e a saudade de casa.(n)</desc>
+    <credits>
+      <presenter>Marcos Mion</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p3564697_b_h10_ag.jpg" />
+    <episode-num system="onscreen">E99</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216031500 +0000" stop="20201216034500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Jornal da Record - 24h</title>
+    <desc lang="en">Confira o boletim informativo com as últimas notícias do Brasil e do mundo.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17352996_b_h8_am.jpg" />
+    <episode-num system="onscreen">E1299</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216034500 +0000" stop="20201216044500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Inteligência e Fé</title>
+    <desc lang="en">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.(n)</desc>
+    <credits>
+      <presenter>Renato Cardoso</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Especial</category>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15947856_b_h10_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216044500 +0000" stop="20201216054500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Palavra Amiga</title>
+    <desc lang="en">O bispo Edir Macedo leva uma Palavra Amiga àqueles que precisam de ajuda.(n)</desc>
+    <credits>
+      <presenter>Edir Macedo</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p11042946_b_h10_ab.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216054500 +0000" stop="20201216093000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Programação IURD</title>
+    <desc lang="en">Programas da Igreja Universal do Reino de Deus.(n)</desc>
+    <date>2007</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p866155_b_h8_ab.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216093000 +0000" stop="20201216113000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Balanço Geral RJ Manhã</title>
+    <desc lang="en">Jornalistas renomados trazem as notícias mais importantes do Estado do Rio de Janeiro, diariamente, nas primeiras horas da manhã. Veja reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9940961_b_h8_ab.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216113000 +0000" stop="20201216130000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Fala Brasil</title>
+    <desc lang="en">O Fala Brasil é um programa de jornalismo moderno e dinâmico que mostra os mais importantes acontecimentos nacionais e internacionais. A missão é apresentar as principais notícias com muito mais profundidade em comparação ao que está estampado nas primeiras páginas dos maiores jornais do país. Diariamente, repórteres de diversas capitais brasileiras entram ao vivo com as principais notícias dos Estados. Outro objetivo do programa é projetar o dia, antecipando os fatos que vão mobilizar a atenção dos brasileiros. A apresentação é de Carla Cecato e Roberta Piza, dois talentos do telejornalismo nacional.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p680444_b_h10_ae.jpg" />
+    <episode-num system="onscreen">E329</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216130000 +0000" stop="20201216144500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Hoje em Dia</title>
+    <desc lang="en">Notícias, prestação de serviços e entretenimento na medida certa dão o ritmo deste programa concebido a partir do mais nobre compromisso da comunicação: informar e formar a opinião pública sem perder de vista a opção de lazer que muitos brasileiros buscam na telinha. A equipe de produção e os apresentadores do programa levam para a casa do telespectador muita informação, dicas de culinária, novidades do mundo fashion, criatividade e talento das artes, fatos e flagrantes que movimentam o cenário nacional e internacional, orientações sobre saúde, o cativante universo pet, economia doméstica, direito e cidadania, curiosidades, paisagismo, decoração e muito mais. Tudo é sempre amarrado por um bate-papo descontraído do trio de apresentadores e a indispensável participação do telespectador por telefone, pela internet ou pelos microfones dos nossos repórteres.(n)</desc>
+    <credits>
+      <presenter>Ana Hickmann</presenter>
+      <presenter>César Filho</presenter>
+      <presenter>Ticiane Pinheiro</presenter>
+      <presenter>Renata Alves</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p723957_b_h10_af.jpg" />
+    <episode-num system="onscreen">E327</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216144500 +0000" stop="20201216145000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Boletim Jornal da Record</title>
+    <desc lang="en">Confira o boletim informativo com as últimas notícias do Brasil e do mundo.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17352996_b_h8_am.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216145000 +0000" stop="20201216181500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Balanço Geral RJ</title>
+    <desc lang="en">Acompanhe reportagens sobre os mais diversos assuntos que afetam os moradores do Rio de Janeiro, como problemas comunitários, segurança pública, cultura popular, política, comportamento e lazer.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9940931_b_h10_ad.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216181500 +0000" stop="20201216194000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Escrava Mãe</title>
+    <desc lang="en">Juliana, mãe da escrava Isaura, é fruto de um estupro e trabalha de mucama em uma fazenda açucareira. Ela se apaixona por Miguel, que também desenvolve sentimentos pela ela. Eles vivem uma intensa história de amor, enfrentando inimigos e obstáculos.(n)</desc>
+    <credits>
+      <actor role="Juliana">Gabriela Moreyra</actor>
+      <actor role="Almeida">Fernando Pavão</actor>
+      <actor role="Maria Isabel">Thaís Fersoza</actor>
+      <actor role="Felipa do Amaral">Milena Toscano</actor>
+      <actor role="Beatrice">Bete Coelho</actor>
+      <actor role="Rosalinda">Luiza Tomé</actor>
+      <actor role="Miguel">Pedro Carvalho</actor>
+      <actor role="Capitão Loreto">Junno Andrade</actor>
+      <actor role="Petúnia">Robertha Portella</actor>
+      <actor role="Luena">Nayara Justino</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p12688774_b_h8_ad.jpg" />
+    <episode-num system="onscreen">E87</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216194000 +0000" stop="20201216194500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Boletim Jornal da Record</title>
+    <desc lang="en">Confira o boletim informativo com as últimas notícias do Brasil e do mundo.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17352996_b_h8_am.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216194500 +0000" stop="20201216203000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Cidade Alerta</title>
+    <desc lang="en">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8723707_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E324</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216203000 +0000" stop="20201216203500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Boletim Jornal da Record</title>
+    <desc lang="en">Confira o boletim informativo com as últimas notícias do Brasil e do mundo.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17352996_b_h8_am.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216203500 +0000" stop="20201216210000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Cidade Alerta</title>
+    <desc lang="en">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8723707_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E324</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216210000 +0000" stop="20201216224500 +0000" channel="Rede Record MG HD">
+    <title lang="en">Cidade Alerta Rio</title>
+    <desc lang="en">Programa jornalístico policial brasileiro.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9420212_b_h10_an.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216224500 +0000" stop="20201217000000 +0000" channel="Rede Record MG HD">
+    <title lang="en">Jornal da Record</title>
+    <desc lang="en">Confiável, ágil, moderno, com grandes reportagens e séries especiais. Uma equipe competente, dedicada e afinada. Assim é o Jornal da Record, comandado por Celso Freitas e Ana Paula Padrão. Com toda a força e credibilidade do jornalismo verdade da emissora, o programa traz a notícia para perto do telespectador. Os repórteres, cinegrafistas, editores e toda a equipe técnica estão empenhados em fazer um telejornal no qual o público possa confiar, sem máscaras e imparcial. Além das principais notícias do dia, o Jornal da Record exibe uma série de reportagens especiais sobre os mais variados assuntos de interesse da população brasileira.(n)</desc>
+    <credits>
+      <presenter>Christina Lemos</presenter>
+      <presenter>Celso Freitas</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p750881_b_h10_ae.jpg" />
+    <episode-num system="onscreen">E331</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216002000 +0000" stop="20201216003000 +0000" channel="RedeTV! HD">
+    <title lang="en">Rio na Graça</title>
+    <desc lang="en">O Pastor Rogério Postigo, líder estadual Rio de Janeiro, entrevista e apresenta agendas.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p12665324_b_h11_aa.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216003000 +0000" stop="20201216013000 +0000" channel="RedeTV! HD">
+    <title lang="en">TV Fama</title>
+    <desc lang="en">Fique por dentro do que acontece no mundo das celebridades. O programa traz curiosidades, fofocas e entrevistas.(n)</desc>
+    <credits>
+      <presenter>Nelson Rubens</presenter>
+      <presenter>Flávia Noronha</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://oisa.tmsimg.com/assets/p498263_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E326</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216013000 +0000" stop="20201216023000 +0000" channel="RedeTV! HD">
+    <title lang="en">Trace Trends</title>
+    <desc lang="en">Acompanhe as tendências de entretenimento e cultura urbana.(n)</desc>
+    <credits>
+      <presenter>Alberto Pereira Jr</presenter>
+      <presenter>Ad Júnior</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17622120_b_h10_ac.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216023000 +0000" stop="20201216033000 +0000" channel="RedeTV! HD">
+    <title lang="en">Luciana by Night</title>
+    <desc lang="en">Acompanhe um talk show diferenciado, moderno e atual, com muito humor e descontração, que oferece entrevistas exclusivas e convidados especiais a cada edição.(n)</desc>
+    <credits>
+      <presenter>Luciana Gimenez</presenter>
+      <presenter>Diogo Portugal</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9606960_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E64</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216033000 +0000" stop="20201216042500 +0000" channel="RedeTV! HD">
+    <title lang="en">Leitura Dinâmica</title>
+    <desc lang="en">Com recursos gráficos de última geração, texto inteligente e olhar diferenciado, o Leitura Dinâmica é uma revista eletrônica que mostra as principais notícias do dia e os destaques do cenário cultural. Os fatos do Brasil e do mundo, política, números do mercado financeiro e curiosidades, acompanhados de uma dose de opinião, compõem o programa, que também reserva diariamente 30 por cento de seu espaço para cultura. São abordados, por exemplo, assuntos como moda, personalidades, cinema, música, artes, divertimento eletrônico e internet. O programa é inovador ao falar de música alternativa e tecnologia de forma direta às pessoas que entendem do assunto e utiliza também uma linguagem voltada a leigos. É bastante popular especialmente entre as pessoas de classes mais privilegiadas com acesso à tecnologia, em especial à Internet.(n)</desc>
+    <credits>
+      <presenter>Érica Reis</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p427059_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E328</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216042500 +0000" stop="20201216053000 +0000" channel="RedeTV! HD">
+    <title lang="en">Opinião no Ar</title>
+    <desc lang="en">Acompanhe o debate sobre os principais fatos do dia com uma análise crítica do assunto.(n)</desc>
+    <credits>
+      <presenter>Luís Ernesto Lacombe</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18867656_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E58</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216053000 +0000" stop="20201216060000 +0000" channel="RedeTV! HD">
+    <title lang="en">Te Peguei</title>
+    <desc lang="en">João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV.(n)</desc>
+    <credits>
+      <presenter>João Kléber</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10749112_b_h8_ac.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216060000 +0000" stop="20201216073000 +0000" channel="RedeTV! HD">
+    <title lang="en">Show da Fé - São Paulo</title>
+    <desc lang="en">Confira a programação da Igreja Internacional da Graça de Deus em São Paulo.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15266126_b_h11_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216073000 +0000" stop="20201216074000 +0000" channel="RedeTV! HD">
+    <title lang="en">Show da Fé - Niterói</title>
+    <desc lang="en">Confira a programação da Igreja da Graça Rio de Janeiro.(n)</desc>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14952482_b_h11_aa.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216074000 +0000" stop="20201216080000 +0000" channel="RedeTV! HD">
+    <title lang="en">Palavra Urgente</title>
+    <desc lang="en">O programa aborda temas do dia a dia à luz da Bíblia.(n)</desc>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14952546_b_h11_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216080000 +0000" stop="20201216090000 +0000" channel="RedeTV! HD">
+    <title lang="en">Rio na Graça</title>
+    <desc lang="en">O Pastor Rogério Postigo, líder estadual Rio de Janeiro, entrevista e apresenta agendas.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p12665324_b_h11_aa.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216090000 +0000" stop="20201216113000 +0000" channel="RedeTV! HD">
+    <title lang="en">Fala, Amigo</title>
+    <desc lang="en">Uma conversa com o público de forma descontraída, com respostas para perguntas de internautas.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p12652015_b_h10_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216113000 +0000" stop="20201216123000 +0000" channel="RedeTV! HD">
+    <title lang="en">Igreja Universal do Reino de Deus</title>
+    <desc lang="en">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+    <date>2007</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p406116_b_h8_ad.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216123000 +0000" stop="20201216133000 +0000" channel="RedeTV! HD">
+    <title lang="en">Você na TV</title>
+    <desc lang="en">Um verdadeiro show de variedades marcado pela interatividade. De forma leve e bem humorada, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamentos e diversas dificuldades cotidianas.(n)</desc>
+    <credits>
+      <presenter>João Kléber</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Variedades</category>
+    <icon src="https://oisa.tmsimg.com/assets/p525932_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E330</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216133000 +0000" stop="20201216144500 +0000" channel="RedeTV! HD">
+    <title lang="en">Vou te Contar</title>
+    <desc lang="en">Claudete Troiano apresenta um programa de variedades com o melhor do entretenimento, prestação de serviço, informação e culinária. Os chefs Roberto Augusto e Júlio Cruz ensinam deliciosas receitas, pratos simples e diferenciados. Entrevistas com especialistas, reportagens, comportamento e astrologia também fazem parte da atração.(n)</desc>
+    <credits>
+      <presenter>Claudete Troiano</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Culinária</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18907976_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E53</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216144500 +0000" stop="20201216160000 +0000" channel="RedeTV! HD">
+    <title lang="en">Opinião no Ar</title>
+    <desc lang="en">Acompanhe o debate sobre os principais fatos do dia com uma análise crítica do assunto.(n)</desc>
+    <credits>
+      <presenter>Luís Ernesto Lacombe</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18867656_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E59</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216160000 +0000" stop="20201216180000 +0000" channel="RedeTV! HD">
+    <title lang="en">Igreja Universal do Reino de Deus</title>
+    <desc lang="en">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+    <date>2007</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p406116_b_h8_ad.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216180000 +0000" stop="20201216200000 +0000" channel="RedeTV! HD">
+    <title lang="en">A Tarde É Sua</title>
+    <desc lang="en">Acompanhe notícias sobre artes, comportamento, política, saúde, economia e educação, com a participação do público e a troca de ideias em reflexões dinâmicas do cotidiano.(n)</desc>
+    <credits>
+      <presenter>Sonia Abrão</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Assuntos Públicos</category>
+    <category lang="en">Entrevista</category>
+    <icon src="https://oisa.tmsimg.com/assets/p551135_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E329</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216200000 +0000" stop="20201216210000 +0000" channel="RedeTV! HD">
+    <title lang="en">Igreja Universal do Reino de Deus</title>
+    <desc lang="en">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+    <date>2007</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p406116_b_h8_ad.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216210000 +0000" stop="20201216223000 +0000" channel="RedeTV! HD">
+    <title lang="en">Alerta Nacional</title>
+    <desc lang="en">Fique por dentro dos principais acontecimentos do Brasil.(n)</desc>
+    <credits>
+      <presenter>Sikêra Junior</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17874000_b_h8_aa.jpg" />
+    <episode-num system="onscreen">E232</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216223000 +0000" stop="20201216233000 +0000" channel="RedeTV! HD">
+    <title lang="en">RedeTV! News</title>
+    <desc lang="en">Acompanhe os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p877168_b_h10_ao.jpg" />
+    <episode-num system="onscreen">E395</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216233000 +0000" stop="20201217002000 +0000" channel="RedeTV! HD">
+    <title lang="en">Igreja Internacional da Graça de Deus</title>
+    <desc lang="en">Acompanhe a programação da Igreja Universal da Graça de Deus.(n)</desc>
+    <credits>
+      <presenter>R. R. Soares</presenter>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8342922_b_h10_ac.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216003000 +0000" stop="20201216021500 +0000" channel="SBT MG HD">
+    <title lang="en">Copa Libertadores da América</title>
+    <sub-title lang="en">Palmeiras x Libertad</sub-title>
+    <desc lang="en">Acompanhe a cobertura de todas as partidas da Copa Libertadores, um dos mais famosos torneios entre clubes de futebol do mundo. Fique por dentro de todos os detalhes do evento e confira entrevistas com jogadores, técnicos e dirigentes.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Futebol</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9212930_b_h10_an.jpg" />
+    <episode-num system="onscreen">E46</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216021500 +0000" stop="20201216033000 +0000" channel="SBT MG HD">
+    <title lang="en">Programa do Ratinho</title>
+    <desc lang="en">Sempre de bom humor, Ratinho faz a alegria do telespectador em um programa dinâmico, animado e cheio de atrações. A atração mistura jogos, comédia, participação do público e quadros únicos, como Jornal Rational, Vai Quem Quer, Escolinha do Ratinho e Teste de DNA, entre outros. Ratinho recebe ainda convidados famosos, que sobem ao palco para se divertir com o apresentador. Sempre com um forte lado humorístico, Ratinho conta com o fiel companheiro Xaropinho, além de sua banda no estúdio, a secretária italiana Valentina, Murilo, Lucimara Parisi, Faxinildo e Milene Pavorô.(n)</desc>
+    <credits>
+      <producer>Vanessa Guzzo</producer>
+      <producer>Murilo Bordoni</producer>
+      <presenter>Ratinho</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Variedades</category>
+    <icon src="https://oisa.tmsimg.com/assets/p469904_b_h8_an.jpg" />
+    <episode-num system="onscreen">E323</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216033000 +0000" stop="20201216043000 +0000" channel="SBT MG HD">
+    <title lang="en">The Noite com Danilo Gentili</title>
+    <desc lang="en">Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.(n)</desc>
+    <credits>
+      <producer>Alan Hupp</producer>
+      <producer>Juninho Bill</producer>
+      <producer>Melissa Ely</producer>
+      <producer>Natália Incerpi</producer>
+      <producer>Júlia Valim</producer>
+      <producer>Ricardo Seguro</producer>
+      <producer>Mariana Pascutti</producer>
+      <producer>Caio Cipó</producer>
+      <producer>Bruno Santa</producer>
+      <producer>João Mesquita</producer>
+      <presenter>Danilo Gentili</presenter>
+      <presenter>Murilo Couto</presenter>
+      <presenter>Léo Lins</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10621510_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E320</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216043000 +0000" stop="20201216050000 +0000" channel="SBT MG HD">
+    <title lang="en">Operação Mesquita</title>
+    <desc lang="en">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.(n)</desc>
+    <credits>
+      <presenter>Otávio Mesquita</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Entrevista</category>
+    <icon src="https://oisa.tmsimg.com/assets/p13868114_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E323</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216050000 +0000" stop="20201216061500 +0000" channel="SBT MG HD">
+    <title lang="en">Triturando</title>
+    <desc lang="en">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.(n)</desc>
+    <credits>
+      <presenter>Lívia Andrade</presenter>
+      <presenter>Leão Lobo</presenter>
+      <presenter>Mara Maravilha</presenter>
+      <presenter>Chris Flores</presenter>
+      <presenter>Gabriel Cartolano</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18299995_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E161</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216061500 +0000" stop="20201216070000 +0000" channel="SBT MG HD">
+    <title lang="en">SBT Brasil</title>
+    <desc lang="en">Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p480353_b_h10_ao.jpg" />
+    <episode-num system="onscreen">E387</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216070000 +0000" stop="20201216090000 +0000" channel="SBT MG HD">
+    <title lang="en">Primeiro Impacto</title>
+    <desc lang="en">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p12742517_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E327</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216090000 +0000" stop="20201216133000 +0000" channel="SBT MG HD">
+    <title lang="en">Primeiro Impacto</title>
+    <desc lang="en">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p12742517_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E327</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216133000 +0000" stop="20201216143000 +0000" channel="SBT MG HD">
+    <title lang="en">Bom Dia &amp; Cia</title>
+    <desc lang="en">Os telespectadores participam das mais divertidas brincadeiras e concorrem a prêmios, na companhia dos apresentadores mais divertidos do pedaço. O programa conta ainda com promoções, curiosidades e entrevistas com convidados especiais.(n)</desc>
+    <credits>
+      <presenter>Silvia Abravanel</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Game show</category>
+    <category lang="en">Infantil</category>
+    <icon src="https://oisa.tmsimg.com/assets/p597584_b_h10_bb.jpg" />
+    <episode-num system="onscreen">E323</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216143000 +0000" stop="20201216160000 +0000" channel="SBT MG HD">
+    <title lang="en">SBT Rio</title>
+    <desc lang="en">Apresentado por Isabele Benito, o SBT Rio quer levar as principais informações do dia para a casa dos cariocas. Prestando serviço para a população e mostrando os problemas e as qualidades do Estado, o programa é um aliado do telespectador.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9438336_b_h10_ad.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216160000 +0000" stop="20201216163000 +0000" channel="SBT MG HD">
+    <title lang="en">SBT Esporte Rio</title>
+    <desc lang="en">Acompanhe tudo sobre o futebol carioca, com comentários diários sobre os principais clubes do Rio de Janeiro. Além do futebol, que é o tema principal, outros esportes também são abordados.(n)</desc>
+    <credits>
+      <presenter>Garotinho</presenter>
+      <presenter>Gérson</presenter>
+      <presenter>Gilson Ricardo</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Bate-papo Esportivo</category>
+    <category lang="en">Futebol</category>
+    <icon src="https://oisa.tmsimg.com/assets/p11554311_b_h11_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216163000 +0000" stop="20201216181500 +0000" channel="SBT MG HD">
+    <title lang="en">Henry Danger</title>
+    <desc lang="en">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man.(n)</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Captain Man">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+      <actor role="Schwoz">Michael D. Cohen</actor>
+      <writer>Dan Schneider</writer>
+      <writer>Dana Olsen</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Infantil</category>
+    <category lang="en">Sitcom</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10891879_b_h8_ba.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216181500 +0000" stop="20201216193000 +0000" channel="SBT MG HD">
+    <title lang="en">Triturando</title>
+    <desc lang="en">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.(n)</desc>
+    <credits>
+      <presenter>Lívia Andrade</presenter>
+      <presenter>Leão Lobo</presenter>
+      <presenter>Mara Maravilha</presenter>
+      <presenter>Chris Flores</presenter>
+      <presenter>Gabriel Cartolano</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18299995_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E162</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216193000 +0000" stop="20201216203000 +0000" channel="SBT MG HD">
+    <title lang="en">Casos de Família</title>
+    <desc lang="en">Casos de Família é um talk show apresentado pela jornalista Christina Rocha. O programa recebe familiares, amigos ou inimigos que têm algum conflito para ser resolvido, abordando problemas que acontecem entre membros da mesma família, vizinhos ou no ambiente de trabalho. Os temas são variados e independem da classe social. As pessoas revelam suas histórias, que são sempre verídicas, e são supervisionadas pelos psicólogos Anahy D'amico e Ildo Rosa da Fonseca. O diferencial desse talk show é que ele é o único do gênero que conta com a participação de psicólogos. A plateia também participa com suas opiniões e perguntas sobre as histórias contadas no palco. Uma das principais características do programa é a credibilidade que ele tem entre os telespectadores e o público em geral.(n)</desc>
+    <credits>
+      <presenter>Christina Rocha</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9040824_b_h11_ab.jpg" />
+    <episode-num system="onscreen">E323</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216203000 +0000" stop="20201216213000 +0000" channel="SBT MG HD">
+    <title lang="en">Triunfo do Amor</title>
+    <desc lang="en">Um jovem casal deve lutar contra um passado que não lhes pertence e um presente que os ameaça, um mundo que parece perfeito, mas onde existe o mal e os segredos mais comoventes.(n)</desc>
+    <credits>
+      <actor>Victoria Ruffo</actor>
+      <actor>William Levy</actor>
+      <actor>Maite Perroni</actor>
+      <actor>Guillermo García Cantú</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Diego Olivera</actor>
+      <actor>Osvaldo Ríos</actor>
+      <actor>Pablo Montero</actor>
+      <actor>Dominika Paleta</actor>
+      <actor>Erika Buenfil</actor>
+      <writer>Liliana Abud</writer>
+      <writer>Ricardo Fiallega</writer>
+      <producer>Salvador Mejía</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8364401_b_h8_ac.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216213000 +0000" stop="20201216224500 +0000" channel="SBT MG HD">
+    <title lang="en">Quando me Apaixono</title>
+    <desc lang="en">Sob ataque e conspiração de sua madrasta, Renata se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael.(n)</desc>
+    <credits>
+      <actor role="Jerónimo Linares">Juan Soler</actor>
+      <actor role="Renata Monterrubio Álvarez">Silvia Navarro</actor>
+      <actor role="Roberta Monterrubio Álvarez">Jessica Coch</actor>
+      <actor role="Matilde López">Grettell Valdez</actor>
+      <actor role="Rafael Gutiérrez">Sebastián Zurita</actor>
+      <actor role="Matías Monterrubio">José Ron</actor>
+      <actor role="Regina Soberón">Julieta Rosen</actor>
+      <actor role="Gonzalo Monterrubio">René Casados</actor>
+      <actor role="Josefina &quot;Fina&quot; Álvarez Martínez">Rocío Banquells</actor>
+      <actor role="Agustín Dunant">Lisandro Guarinos</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8180568_b_h8_ae.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216224500 +0000" stop="20201216233000 +0000" channel="SBT MG HD">
+    <title lang="en">SBT Brasil</title>
+    <desc lang="en">Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p480353_b_h10_ao.jpg" />
+    <episode-num system="onscreen">E388</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216233000 +0000" stop="20201217000000 +0000" channel="SBT MG HD">
+    <title lang="en">Roda a Roda Jequiti</title>
+    <desc lang="en">O programa Roda a Roda Jequiti possibilita aos participantes concorrerem a prêmios em barras de ouro. Até hoje, já foram pagos muitos milhões em prêmios aos consultores e clientes que foram sorteados para a atração. A pessoa que comprar um produto Jequiti ganha um cupom para participar do programa, que deve ser preenchido e entregue a um consultor Jequiti. Se for sorteado, ele e seu consultor irão a São Paulo com tudo pago para participar do programa.(n)</desc>
+    <credits>
+      <presenter>Silvio Santos</presenter>
+      <presenter>Rebeca Abravanel</presenter>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Game show</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8273212_b_h10_ad.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216001000 +0000" stop="20201216010000 +0000" channel="Band Minas HD">
+    <title lang="en">Igreja da Graça</title>
+    <desc lang="en">Acompanhe a programação da Igreja Universal da Graça de Deus.(n)</desc>
+    <credits>
+      <presenter>R. R. Soares</presenter>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8342922_b_h10_ac.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216010000 +0000" stop="20201216014500 +0000" channel="Band Minas HD">
+    <title lang="en">Band Notícias</title>
+    <desc lang="en">Acompanhe o programa que traz opinião e foco nos principais temas do dia.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17346857_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E325</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216014500 +0000" stop="20201216035000 +0000" channel="Band Minas HD">
+    <title lang="en">MasterChef</title>
+    <desc lang="en">O maior reality de culinária do mundo revela os novos talentos da cozinha brasileira.(n)</desc>
+    <credits>
+      <presenter>Ana Paula Padrão</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Culinária</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19080682_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216035000 +0000" stop="20201216042500 +0000" channel="Band Minas HD">
+    <title lang="en">Jornal da Noite</title>
+    <desc lang="en">Acompanhe o resumo dos acontecimentos mais relevantes do Brasil e do mundo, com análises de colunistas, entrevistas e matérias especiais que abordam os temas mais importantes do noticiário.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8178049_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E323</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216042500 +0000" stop="20201216043000 +0000" channel="Band Minas HD">
+    <title lang="en">Que Fim Levou?</title>
+    <desc lang="en">Milton Neves relembra as estrelas do futebol e esporte brasileiro e mostra como elas estão agora.(n)</desc>
+    <credits>
+      <presenter>Milton Neves</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo Esportivo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p870143_b_h11_aa.jpg" />
+    <episode-num system="onscreen">E324</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216043000 +0000" stop="20201216050000 +0000" channel="Band Minas HD">
+    <title lang="en">FutBand</title>
+    <desc lang="en">Acompanhe um resumo dos jogos dos campeonatos italiano, alemão e russo, além de uma prévia do que vem pela frente nos certames. Ainda, fique por dentro das curiosidades sobre o que acontece na vida dos ídolos fora de campo.(n)</desc>
+    <credits>
+      <presenter>Nathália Batista</presenter>
+    </credits>
+    <date>2020</date>
+    <icon src="https://oisa.tmsimg.com/assets/p18908472_b_h10_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216050000 +0000" stop="20201216054000 +0000" channel="Band Minas HD">
+    <title lang="en">+ Info</title>
+    <desc lang="en">Acompanhe reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16169827_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E442</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216054000 +0000" stop="20201216064500 +0000" channel="Band Minas HD">
+    <title lang="en">Jornal da Band</title>
+    <desc lang="en">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p413324_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E389</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216064500 +0000" stop="20201216090000 +0000" channel="Band Minas HD">
+    <title lang="en">1º Jornal</title>
+    <desc lang="en">Acompanhe as principais notícias do Brasil e do mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18083026_b_h8_aa.jpg" />
+    <episode-num system="onscreen">E198</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216090000 +0000" stop="20201216100000 +0000" channel="Band Minas HD">
+    <title lang="en">Notícias da Redação</title>
+    <desc lang="en">Acompanhe os principais destaques dos noticiários com muita interatividade e prestação de serviço.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17217785_b_h8_ab.jpg" />
+    <episode-num system="onscreen">E58</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216100000 +0000" stop="20201216110000 +0000" channel="Band Minas HD">
+    <title lang="en">Igreja Mundial</title>
+    <desc lang="en">Acompanhe o culto da Igreja Mundial do Poder de Deus.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8821208_b_h10_aa.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216110000 +0000" stop="20201216120000 +0000" channel="Band Minas HD">
+    <title lang="en">Bora Brasil</title>
+    <desc lang="en">Acompanhe as principais informações do Brasil e do mundo com leveza, interatividade e credibilidade.(n)</desc>
+    <credits>
+      <presenter>Joel Datena</presenter>
+      <presenter>Thaís Dias</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18082964_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E198</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216120000 +0000" stop="20201216140000 +0000" channel="Band Minas HD">
+    <title lang="en">The Chef com Edu Guedes</title>
+    <desc lang="en">O chef Edu Guedes mostra suas melhores receitas e dá ao telespectador as melhores dicas culinárias.(n)</desc>
+    <credits>
+      <presenter>Edu Guedes</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Culinária</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18818213_b_h10_aa.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216140000 +0000" stop="20201216153000 +0000" channel="Band Minas HD">
+    <title lang="en">Jogo Aberto</title>
+    <desc lang="en">Acompanhe notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+    <credits>
+      <presenter>Renata Fan</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Animação</category>
+    <category lang="en">Bate-papo Esportivo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p749715_b_h10_ag.jpg" />
+    <episode-num system="onscreen">E326</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216153000 +0000" stop="20201216173000 +0000" channel="Band Minas HD">
+    <title lang="en">Os Donos da Bola</title>
+    <desc lang="en">Fique por dentro dos principais assuntos do momento no futebol carioca, com convidados especiais e links diretos. O programa traz informações ao vivo dos principais times da região: Botafogo, Flamengo, Fluminense e Vasco.(n)</desc>
+    <credits>
+      <presenter>Edílson Silva</presenter>
+    </credits>
+    <category lang="en">Bate-papo Esportivo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17199361_b_h10_aa.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216173000 +0000" stop="20201216180000 +0000" channel="Band Minas HD">
+    <title lang="en">Escola.Rio</title>
+    <desc lang="en">Acompanhe videoaulas gravadas por professores da rede municipal de ensino do Rio de Janeiro.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Educativo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18669210_b_h8_aa.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216180000 +0000" stop="20201216190000 +0000" channel="Band Minas HD">
+    <title lang="en">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="en">Cátia Fonseca comanda um programa que promove dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+    <credits>
+      <presenter>Cátia Fonseca</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Variedades</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15202354_b_h8_ac.jpg" />
+    <episode-num system="onscreen">E325</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216190000 +0000" stop="20201216215000 +0000" channel="Band Minas HD">
+    <title lang="en">Brasil Urgente</title>
+    <desc lang="en">Acompanhe os principais acontecimentos do dia, com foco em temas do cotidiano da sociedade.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p599486_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E390</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216215000 +0000" stop="20201216222000 +0000" channel="Band Minas HD">
+    <title lang="en">Jornal do Rio</title>
+    <desc lang="en">Para colocar em dia a vida dos cariocas e dos fluminenses, imparcial e pontual, o jornal apresenta os principais fatos do dia na capital e em todo o estado.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9690783_b_h10_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216222000 +0000" stop="20201216232500 +0000" channel="Band Minas HD">
+    <title lang="en">Jornal da Band</title>
+    <desc lang="en">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p413324_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E390</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216232500 +0000" stop="20201217001000 +0000" channel="Band Minas HD">
+    <title lang="en">Floribella</title>
+    <desc lang="en">Maria Flor é uma moça alegre e sonhadora que, após perder sua mãe, foi criada por sua madrinha, Titina, mas precisou trabalhar desde cedo. Ela acaba contratada por Frederico Fritzenwalden para cuidar de seus irmãos, que recentemente ficaram órfãos.(n)</desc>
+    <credits>
+      <actor role="Maria Flor">Juliana Silveira</actor>
+      <actor role="Fred">Roger Gobeth</actor>
+      <actor role="Marta">Letícia Colin</actor>
+      <actor role="Titina">Zezé Motta</actor>
+      <actor role="Malva">Suzy Rêgo</actor>
+      <actor role="João Pedro">Johnny Massaro</actor>
+      <actor role="Olívia">Julianne Trevisol</actor>
+      <actor role="Augusto">Gustavo Leão</actor>
+      <actor role="Delfina">Maria Carolina Ribeiro</actor>
+      <actor role="Corina Bittencourt">Norma Blum</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18726730_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E67</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216004000 +0000" stop="20201216014500 +0000" channel="Globo Minas HD">
+    <title lang="en">A Força do Querer - Edição Especial</title>
+    <desc lang="en">Cibele tenta acalmar Eurico; Nonato consegue mandar a foto de Silvana para o seu celular; Eugênio conta sobre sua traição para Heleninha; Nonato mostra a Silvana a foto que Eurico recebeu e decide ajudar a arquiteta; Edinalva faz perguntas sobre a mãe de Zeca e Jeiza se incomoda; Nonato conta para Silvana como descobriu que ela gosta de jogar; Zeca fica furioso ao saber que Edinalva está fazendo perguntas sobre a sua mãe; Cibele procura Joyce; Silvana consegue se entender com Eurico.(n)</desc>
+    <credits>
+      <actor role="Caio">Rodrigo Lombardi</actor>
+      <actor role="Bibi">Juliana Paes</actor>
+      <actor role="Eugênio">Dan Stulbach</actor>
+      <actor role="Rubinho">Emílio Dantas</actor>
+      <actor role="Cibele">Bruna Linzmeyer</actor>
+      <actor role="Ruy">Fiuk</actor>
+      <actor role="Ritinha">Ísis Valverde</actor>
+      <actor role="Zeca">Marco Pigossi</actor>
+      <actor role="Jeiza">Paolla Oliveira</actor>
+      <actor role="Joyce">Maria Fernanda Cândido</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18623883_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E74</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216014500 +0000" stop="20201216030500 +0000" channel="Globo Minas HD">
+    <title lang="en">The Voice Brasil</title>
+    <desc lang="en">Reality show musical em que quatro equipes lideradas por grandes nomes da música brasileira competem entre si, cantando em duplas e individualmente. Na primeira fase, os jurados fazem as eliminações baseadas apenas na voz dos participantes.(n)</desc>
+    <credits>
+      <presenter>Tiago Leifert</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Música</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9483555_b_h10_aq.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216030500 +0000" stop="20201216040500 +0000" channel="Globo Minas HD">
+    <title lang="en">Jornal da Globo</title>
+    <desc lang="en">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17771976_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E465</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216040500 +0000" stop="20201216044500 +0000" channel="Globo Minas HD">
+    <title lang="en">Conversa com Bial</title>
+    <desc lang="en">Pedro Bial debate e propõe o diálogo sobre assuntos contemporâneos, do Brasil e do mundo, com seus convidados.(n)</desc>
+    <credits>
+      <presenter>Pedro Bial</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14093070_b_h8_ac.jpg" />
+    <episode-num system="onscreen">E152</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216044500 +0000" stop="20201216055500 +0000" channel="Globo Minas HD">
+    <title lang="en">Resgate de uma Família</title>
+    <desc lang="en">Um casal vai a Porto Rico para adotar Nina, que tem sete anos de idade. Eles entram em conflito com um morador local e a menina desaparece no meio da noite. Agora, eles fazem de tudo para descobrir a verdade sobre o desaparecimento da garota.(n)</desc>
+    <credits>
+      <actor role="Benjamin">John Cusack</actor>
+      <actor role="Steven">Ryan Phillippe</actor>
+      <actor role="Shannon">Rachelle Lefevre</actor>
+      <actor role="Reigert">Jacki Weaver</actor>
+      <actor role="Detective">Luis Guzmán</actor>
+      <actor role="Nina">Briana Roy</actor>
+      <actor role="Salo">Jandres Burgos</actor>
+      <actor role="Paola">Veronica Faye Foo</actor>
+      <producer>Brian R. Etting</producer>
+      <producer>Josh Etting</producer>
+      <producer>Gary Hamilton</producer>
+      <producer>Mike Garawy</producer>
+      <producer>Fredrik Malmberg</producer>
+      <producer>Silvio Muraglia</producer>
+      <producer>Ian Sutherland</producer>
+      <producer>Robert Luketic</producer>
+      <producer>Carmine Gaeta</producer>
+      <producer>Luke Davies</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Suspense</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10924879_b_h10_ah.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216055500 +0000" stop="20201216070000 +0000" channel="Globo Minas HD">
+    <title lang="en">5x Chico - O Velho e Sua Gente</title>
+    <desc lang="en">Uma jornada afetiva por cada um dos cinco estados banhados pelo Rio São Francisco. Em cada estado, as histórias de suas comunidades ribeirinhas são vistas pelo olhar de um diretor diferente. O leito do "Velho Chico" banha a cultura, vida e luta de milhares de brasileiros.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Documentário</category>
+    <icon src="https://oisa.tmsimg.com/assets/p12285732_v_h11_aa.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216070000 +0000" stop="20201216090000 +0000" channel="Globo Minas HD">
+    <title lang="en">Hora 1</title>
+    <desc lang="en">Veja os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p11303826_b_h10_as.jpg" />
+    <episode-num system="onscreen">E468</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216090000 +0000" stop="20201216113000 +0000" channel="Globo Minas HD">
+    <title lang="en">Bom Dia RJ</title>
+    <desc lang="en">Acompanhe as notícias da manhã e da madrugada, com entrevistas no estúdio, previsão do tempo, condições do trânsito na cidade, campanhas sociais, oportunidades no mercado de trabalho, assim como assuntos relevantes de todo o Estado do Rio de Janeiro.(n)</desc>
+    <date>1999</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p343146_b_h10_an.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216113000 +0000" stop="20201216123000 +0000" channel="Globo Minas HD">
+    <title lang="en">Bom Dia Brasil</title>
+    <desc lang="en">O programa apresenta as principais notícias do Brasil e do mundo em formato de revista, com comentários sobre política, economia, esportes e gastronomia.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17771819_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E470</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216123000 +0000" stop="20201216134500 +0000" channel="Globo Minas HD">
+    <title lang="en">Mais Você</title>
+    <desc lang="en">Com muito bom humor e dinamismo, Ana Maria Braga e seu inseparável companheiro, Louro José, falam de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.(n)</desc>
+    <credits>
+      <presenter>Ana Maria Braga</presenter>
+      <presenter>Viviane de Marco</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Artesanato</category>
+    <category lang="en">Bate-papo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17772452_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E53</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216134500 +0000" stop="20201216150000 +0000" channel="Globo Minas HD">
+    <title lang="en">Encontro com Fátima Bernardes</title>
+    <desc lang="en">O novo programa da ex-apresentadora do Jornal Nacional é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos serão abordados pelo programa em forma de bate-papo. Depois de 14 anos no telejornalismo do horário nobre, Fátima encara a transferência do jornalismo para o entretenimento com uma nova postura corporal e entonação de voz, pois sabe-se que o visual precisa mudar radicalmente no momento em que um jornalista vira apresentador. Estão no projeto os jornalistas Lair Renó e Lília Teles e os humoristas Március Melhem e Gregório Duvivier.(n)</desc>
+    <credits>
+      <presenter>Fátima Bernardes</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17772352_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E552</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216150000 +0000" stop="20201216160000 +0000" channel="Globo Minas HD">
+    <title lang="en">RJ1</title>
+    <desc lang="en">O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões, cobrando soluções para melhorar o cotidiano do Rio de Janeiro.(n)</desc>
+    <date>1983</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16343224_b_h10_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216160000 +0000" stop="20201216162500 +0000" channel="Globo Minas HD">
+    <title lang="en">Globo Esporte</title>
+    <desc lang="en">Confira os principais eventos e acontecimentos esportivos que estão ocorrendo no Brasil e no mundo.(n)</desc>
+    <date>1978</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p394068_b_h10_an.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216162500 +0000" stop="20201216180000 +0000" channel="Globo Minas HD">
+    <title lang="en">Jornal Hoje</title>
+    <desc lang="en">O telejornal apresenta as notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17771997_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E567</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216180000 +0000" stop="20201216194500 +0000" channel="Globo Minas HD">
+    <title lang="en">Meninas Malvadas</title>
+    <desc lang="en">A adolescente Cady Heron foi educada na África pelos seus pais cientistas. Quando sua família se muda para os subúrbios de Illinois, Cady finalmente vai para escola pública e recebe uma rápida introdução às leis tácitas de popularidade que dividem seus colegas. Sem querer, ela encontra-se no meio de um grupo de elite de estudantes apelidados de Os Plásticos, mas Cady logo aprende porque o seu novo grupo de amigos ganhou este apelido.(n)</desc>
+    <credits>
+      <actor role="Cady Heron">Lindsay Lohan</actor>
+      <actor role="Regina George">Rachel McAdams</actor>
+      <actor role="Mrs. Norbury">Tina Fey</actor>
+      <actor role="Mr. Duvall">Tim Meadows</actor>
+      <actor role="Mrs. George">Amy Poehler</actor>
+      <actor role="Cady's Mom">Ana Gasteyer</actor>
+      <actor role="Gretchen Wieners">Lacey Chabert</actor>
+      <actor role="Janis Ian">Lizzy Caplan</actor>
+      <actor role="Damian">Daniel Franzese</actor>
+      <actor role="Cady's Dad">Neil Flynn</actor>
+      <producer>Lorne Michaels</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p34319_v_h8_ac.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216194500 +0000" stop="20201216203500 +0000" channel="Globo Minas HD">
+    <title lang="en">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="en">Helena, uma empresária de 45 anos, se envolve em um acidente de carro com Edu, um médico de 25 anos. Após várias brigas, os dois se entregam a um amor polêmico, já que Camila, a filha de Helena, também é apaixonada pelo médico.(n)</desc>
+    <credits>
+      <actor role="Helena">Vera Fischer</actor>
+      <actor role="Camila">Carolina Dieckmann</actor>
+      <actor role="Miguel">Tony Ramos</actor>
+      <actor role="Edu">Reynaldo Gianecchini</actor>
+      <actor role="Íris">Deborah Secco</actor>
+      <actor role="Cíntia">Helena Ranaldi</actor>
+      <actor role="Danilo">Alexandre Borges</actor>
+      <actor role="Pedro">José Mayer</actor>
+      <actor role="Aléssio">Fernando Torres</actor>
+      <actor role="Ciça">Júlia Feldens</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18623826_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E73</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216203500 +0000" stop="20201216210500 +0000" channel="Globo Minas HD">
+    <title lang="en">Malhação - Viva a Diferença</title>
+    <desc lang="en">Tina deixa a casa da família; Felipe e MB lamentam a saída de Lica do colégio Grupo; Gabriel chega para sua temporada com Roney; Tina pede para morar na casa de Das Dores, e Nena exige que ela avise à sua família; Noboru tem uma conversa com Anderson e decide permitir que Tina se mude para a casa do rapaz; Noboru afirma a Mitsuko que ela está afastando suas filhas; Felipe avisa a Ellen sobre a festa de despedida de Lica.(n)</desc>
+    <credits>
+      <actor role="Keyla">Gabriela Medvedovski</actor>
+      <actor role="Benê">Daphne Bozaski</actor>
+      <actor role="Lica">Manoela Aliperti</actor>
+      <actor role="Ellen">Heslaine Vieira</actor>
+      <actor role="Tina">Ana Hikari</actor>
+      <actor role="Tato">Matheus Abreu</actor>
+      <actor role="Roney">Lúcio Mauro Filho</actor>
+      <actor role="Anderson">Juan Paiva</actor>
+      <actor role="Josefina">Aline Fanju</actor>
+      <actor role="Guto">Bruno Gadiol</actor>
+      <writer>Cao Hamburger</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Comédia Dramática</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18103547_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E182</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216210500 +0000" stop="20201216214500 +0000" channel="Globo Minas HD">
+    <title lang="en">Flor do Caribe - Edição Especial</title>
+    <desc lang="en">Alberto e Dionísio negam que as joias sejam deles; Samuel não se conforma com o fato de Dionísio ter conseguido escapar da acusação de roubo das joias; Lindaura teme por Ester estar na casa de Dionísio; Carol conta a Lino que Maria Adília morreu há três anos, segundo vídeo gravado por seu marido; Mateus ameaça Lipe; Veridiana não acredita que a filha esteja morta; Dionísio revela a Alberto que queimou as fotos que estavam no bunker.(n)</desc>
+    <credits>
+      <actor role="Ester">Grazi Massafera</actor>
+      <actor role="Cassiano">Henri Castelli</actor>
+      <actor role="Alberto">Igor Rickli</actor>
+      <actor role="Juliano">Bruno Sang Gissoni</actor>
+      <actor role="Candinho">José Loreto</actor>
+      <actor role="Amaralina">Sthefany Brito</actor>
+      <actor role="Taís">Débora Nascimento</actor>
+      <actor role="Ludmila">Tainá Müller</actor>
+      <actor role="Lindaura">Ângela Vieira</actor>
+      <actor role="Ciro">Max Fercondini</actor>
+      <writer>Walther Negrão</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18623850_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E93</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216214500 +0000" stop="20201216221500 +0000" channel="Globo Minas HD">
+    <title lang="en">RJ2</title>
+    <desc lang="en">O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões, cobrando soluções para melhorar o cotidiano do Rio de Janeiro.(n)</desc>
+    <date>1983</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16343279_b_h10_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216221500 +0000" stop="20201216230000 +0000" channel="Globo Minas HD">
+    <title lang="en">Haja Coração - Edição Especial</title>
+    <desc lang="en">Tancinha acusa Apolo de ter usado o beijo que Beto lhe deu como desculpa para terminar o namoro; Apolo acredita que Tancinha se interessou pelo dinheiro de Beto; Bruna repreende Giovanni por ter ido atrás de Camila; Dinamite avisa a Leozinho que contratou capangas para eliminar Aparício; Tancinha decide sair com Beto para provocar ciúmes em Apolo; Giovanni acusa Aparício de ser o responsável pelo atentado à Peripécia e à casa de Camila.(n)</desc>
+    <credits>
+      <actor role="Tancinha">Mariana Ximenes</actor>
+      <actor role="Apolo">Malvino Salvador</actor>
+      <actor role="Beto">João Baldasserini</actor>
+      <actor role="Fedora">Tatá Werneck</actor>
+      <actor role="Francesca">Marisa Orth</actor>
+      <actor role="Camila">Agatha Moreira</actor>
+      <actor role="Giovanni">Jayme Matarazzo</actor>
+      <actor role="Tamara">Cléo Pires</actor>
+      <actor role="Adônis">José Loreto</actor>
+      <actor role="Aparício">Alexandre Borges</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Comédia Romântica</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18623859_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E57</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216230000 +0000" stop="20201216233500 +0000" channel="Globo Minas HD">
+    <title lang="en">Jornal Nacional</title>
+    <desc lang="en">O principal telejornal brasileiro, "Jornal Nacional.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17772022_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E567</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216233500 +0000" stop="20201217002000 +0000" channel="Globo Minas HD">
+    <title lang="en">A Força do Querer - Edição Especial</title>
+    <desc lang="en">Bibi teme pela segurança de Caio ao ouvir Alessia ameaçá-lo; Caio se incomoda com a presença de Jeiza; Alessia percebe o nervosismo de Bibi, que coloca a culpa em Jeiza; Cibele tenta se reconciliar com Anita; Irene tenta convencer Eugênio de que não mentiu; Bibi impede que Caio seja baleado e o bandido desconfia da atitude dela; Irene exige que Eugênio mande Ruy se afastar dela; Jeiza conta para Cândida que protegeu Caio de um tiroteio; Ruy fura o pneu do carro de Irene.(n)</desc>
+    <credits>
+      <actor role="Caio">Rodrigo Lombardi</actor>
+      <actor role="Bibi">Juliana Paes</actor>
+      <actor role="Eugênio">Dan Stulbach</actor>
+      <actor role="Rubinho">Emílio Dantas</actor>
+      <actor role="Cibele">Bruna Linzmeyer</actor>
+      <actor role="Ruy">Fiuk</actor>
+      <actor role="Ritinha">Ísis Valverde</actor>
+      <actor role="Zeca">Marco Pigossi</actor>
+      <actor role="Jeiza">Paolla Oliveira</actor>
+      <actor role="Joyce">Maria Fernanda Cândido</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18623883_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E75</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216000000 +0000" stop="20201216010000 +0000" channel="MTV">
+    <title lang="en">Adotada #TBT</title>
+    <desc lang="en">Mareu está de volta para matar as saudades das famílias que a adotaram.(n)</desc>
+    <credits>
+      <actor>Maria Eugênia</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19036362_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E7/7</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216010000 +0000" stop="20201216015000 +0000" channel="MTV">
+    <title lang="en">Amor em Dose Dupla</title>
+    <sub-title lang="en">O Que Acontece em Vegas... Fica em Vegas?</sub-title>
+    <desc lang="en">Pauly e Nikki tentam decidir o que acontecerá daqui para frente; Vinny e Maria reacendem a chama do relacionamento, mas com expectativas realistas; Derynn decide se ela ficará em Las Vegas com Ricky.(n)</desc>
+    <credits>
+      <presenter>Pauly D</presenter>
+      <presenter>Vinny Guadagnino</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Romance</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18687194_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20201216015000 +0000" stop="20201216020000 +0000" channel="MTV">
+    <title lang="en">MTVixe!</title>
+    <desc lang="en">Gabi Prado tece seus hilários comentários sobre os mais diversos assuntos da atualidade.(n)</desc>
+    <credits>
+      <presenter>Gabi Prado</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18042758_b_h10_aa.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20201216020000 +0000" stop="20201216040000 +0000" channel="MTV">
+    <title lang="en">Para Sempre</title>
+    <desc lang="en">Paige e Leo são felizes recém-casados, mas um acidente deixa Paige em coma. Quando ela acorda, não reconhece Leo, tem problemas de relacionamento com os pais e se sente atraída pelo ex-noivo. Mas Leo está determinado a reconstruir seu casamento.(n)</desc>
+    <credits>
+      <actor role="Paige">Rachel McAdams</actor>
+      <actor role="Leo">Channing Tatum</actor>
+      <actor role="Bill Thornton">Sam Neill</actor>
+      <actor role="Jeremy">Scott Speedman</actor>
+      <actor role="Dr. Fishman">Wendy Crewson</actor>
+      <actor role="Rita Thornton">Jessica Lange</actor>
+      <actor role="Gwen">Jessica McNamee</actor>
+      <actor role="Lily">Tatiana Maslany</actor>
+      <actor role="Jim">Joe Cobden</actor>
+      <actor role="Sonia">Jeananne Goossen</actor>
+      <producer>Gary Barber</producer>
+      <producer>Roger Birnbaum</producer>
+      <producer>Jonathan Glickman</producer>
+      <producer>Paul Taublieb</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8786369_v_h10_ai.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216040000 +0000" stop="20201216050000 +0000" channel="MTV">
+    <title lang="en">Adotada #TBT</title>
+    <desc lang="en">Mareu está de volta para matar as saudades das famílias que a adotaram.(n)</desc>
+    <credits>
+      <actor>Maria Eugênia</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19036362_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E7/7</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216050000 +0000" stop="20201216070000 +0000" channel="MTV">
+    <title lang="en">Tudão MTV</title>
+    <desc lang="en">O programa traz música para todo mundo. Curta a playlist mais agregadora da televisão e cante junto, madrugada adentro, os maiores sucessos da atualidade.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Música</category>
+    <category lang="en">Variedades</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15681440_b_h8_aa.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216070000 +0000" stop="20201216090000 +0000" channel="MTV">
+    <title lang="en">Naninha MTV</title>
+    <desc lang="en">Curta este programa criado com o melhor da música especialmente para os notívagos.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Música</category>
+    <category lang="en">Variedades</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15681444_b_h10_ab.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216090000 +0000" stop="20201216110000 +0000" channel="MTV">
+    <title lang="en">MTV Acordaê</title>
+    <desc lang="en">Está na hora de acordar. Para lhe acompanhar nesta difícil tarefa do dia a dia, a MTV prepara a melhor playlist para você escutar e acompanhar enquanto reclama do horário, do frio, do dia e da luta diária para sair da cama.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Música</category>
+    <category lang="en">Variedades</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15681441_b_h10_ab.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20201216110000 +0000" stop="20201216120000 +0000" channel="MTV">
+    <title lang="en">MTV Hits</title>
+    <desc lang="en">MTV Hits é a seleção dos melhores clipes para todos os gostos. Confira uma seleção de vídeos com direito a "tweets" da nossa audiência por meio da hashtag "MTVHits".(n)</desc>
+    <credits>
+      <presenter>Gui Araújo</presenter>
+      <presenter>Bia Coelho</presenter>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Música</category>
+    <category lang="en">Variedades</category>
+    <icon src="https://oisa.tmsimg.com/assets/p434776_b_h8_at.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216120000 +0000" stop="20201216125000 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Artis &amp; Jess</sub-title>
+    <desc lang="en">Como jovens que adoram a tecnologia encontram o amor? Muitas vezes, conhecem pessoas na internet que nunca viram pessoalmente. Após meses de conversa pela internet, Artis quer conhecer a linda loira por quem se apaixonou.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10098731_e_h10_ac.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216125000 +0000" stop="20201216134000 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Keyonnah &amp; Bow Wow</sub-title>
+    <desc lang="en">Keyonnah tem quase certeza de que está em um relacionamento virtual com Bow Wow, o rapper por quem sente atração. Ela precisa da ajuda de Max e Nev para ter certeza de que ele é mesmo quem Keyonnah imagina.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10231784_e_h10_ac.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216134000 +0000" stop="20201216142500 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Lucille &amp; Kidd Cole</sub-title>
+    <desc lang="en">Lucille levava uma vida simples até ser convidada para trabalhar com um produtor musical chamado Kidd Cole. Um dia, após dar calote em diversas prestadoras de serviços, Kidd Cole sumiu do mapa.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10730670_e_h10_ab.jpg" />
+    <episode-num system="onscreen">S3 E4/5</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216142500 +0000" stop="20201216151500 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Blaire &amp; Markie</sub-title>
+    <desc lang="en">Uma jovem menina sofre por um amor de Instagram, mas mesmo assim quer conhecê-lo.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p11670820_e_h10_ab.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216151500 +0000" stop="20201216160000 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Hundra &amp; Emily</sub-title>
+    <desc lang="en">Uma jovem está disposta a tudo para finalmente descobrir se seu amor é real. Para isso, ela se dispõe até mesmo a aparecer em rede nacional e expor todos os seus sentimentos. Enquanto isso, Kelly une-se a Nev.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p11982172_e_h10_ab.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216160000 +0000" stop="20201216165000 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Spencer &amp; Katy</sub-title>
+    <desc lang="en">Spencer faz a grande revelação de que está em uma relação com uma das maiores cantoras pop do mundo e pela primeira vez Nev e Max viajam internacionalmente para resolver um caso.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p13140422_e_h8_ab.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216165000 +0000" stop="20201216174000 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Robin &amp; Wayne</sub-title>
+    <desc lang="en">Após três longos anos de relacionamento online, Robin está desesperada para conhecer pessoalmente o seu príncipe encantado. Porém ao investigarem o caso, Nev e Max descobrem mais do que o esperado sobre Wayne.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14327917_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216174000 +0000" stop="20201216183000 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Kiaira &amp; Cortney</sub-title>
+    <desc lang="en">Kiaira pede ajuda para Nev e Max para conseguir encontrar seu amor virtual, Cortney. As duas têm até mesmo um bebê, mas Cortney sempre tem desculpas para as duas não se encontrarem.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15499918_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216183000 +0000" stop="20201216203000 +0000" channel="MTV">
+    <title lang="en">Para Sempre</title>
+    <desc lang="en">Paige e Leo são felizes recém-casados, mas um acidente deixa Paige em coma. Quando ela acorda, não reconhece Leo, tem problemas de relacionamento com os pais e se sente atraída pelo ex-noivo. Mas Leo está determinado a reconstruir seu casamento.(n)</desc>
+    <credits>
+      <actor role="Paige">Rachel McAdams</actor>
+      <actor role="Leo">Channing Tatum</actor>
+      <actor role="Bill Thornton">Sam Neill</actor>
+      <actor role="Jeremy">Scott Speedman</actor>
+      <actor role="Dr. Fishman">Wendy Crewson</actor>
+      <actor role="Rita Thornton">Jessica Lange</actor>
+      <actor role="Gwen">Jessica McNamee</actor>
+      <actor role="Lily">Tatiana Maslany</actor>
+      <actor role="Jim">Joe Cobden</actor>
+      <actor role="Sonia">Jeananne Goossen</actor>
+      <producer>Gary Barber</producer>
+      <producer>Roger Birnbaum</producer>
+      <producer>Jonathan Glickman</producer>
+      <producer>Paul Taublieb</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8786369_v_h10_ai.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20201216203000 +0000" stop="20201216220000 +0000" channel="MTV">
+    <title lang="en">Mtvhits Top 100 Clipes de 2020</title>
+    <desc lang="en">Confira uma apresentação espetacular das 100 melhores canções de 2020.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Especial</category>
+    <category lang="en">Musical</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19225427_b_h8_aa.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216220000 +0000" stop="20201216224500 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Dre &amp; Casey</sub-title>
+    <desc lang="en">Nev e Kamie recebem um pedido para ajudar Dre a finalmente encontrar o elusivo Casey.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18578564_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S8 E13/22</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216224500 +0000" stop="20201216233000 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Dustin &amp; Keegan</sub-title>
+    <desc lang="en">Em meio à quarentena, Nev e Kamie ajudam remotamente Dustin, de 24 anos, a descobrir a verdade sobre seu relacionamento on-line de oito anos com Keegan. Uma descoberta chocante força Dustin a enfrentar seu maior medo dos últimos oito anos.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18580579_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S8 E14/22</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20201216233000 +0000" stop="20201217001500 +0000" channel="MTV">
+    <title lang="en">Catfish</title>
+    <sub-title lang="en">Kirsten &amp; Alex</sub-title>
+    <desc lang="en">Kirsten conheceu Alex on-line há um mês, enquanto vivia em quarentena com seu ex-noivo; Alex então confessa ser um catfish e some.(n)</desc>
+    <credits>
+      <presenter>Max Joseph</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentário</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p18635118_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S8 E15/22</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+</tv>
